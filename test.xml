@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monDoc>
+   <maBalise id="1" />
+  
+<maBalise id="2" />
+
+      
+<maBaliseImbriquee id="3">
+
+         
+<maBaliseImbriquee id="4">
+
+              
+<maBalise id="5" />
+
+         
+</maBaliseImbriquee>
+
+      
+</maBaliseImbriquee>
+         
+</monDoc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque xmlns="http://www.jmdoudoux.com">>
+  <livre>
+    <!-- commentaires livre 1 -->
+    <titre>titre1</titre>
+    <auteur>auteur1</auteur>
+    <editeur>editeur1</editeur>
+  </livre>
+    <livre>
+    <!-- commentaires livre 2 -->
+    <titre>titre2</titre>
+    <auteur>auteur2</auteur>
+    <editeur>editeur2</editeur>
+  </livre>
+    <livre>
+    <!-- commentaires livre 3 -->
+    <titre>titre3</titre>
+    <auteur>auteur3</auteur>
+    <editeur>editeur3</editeur>
+  </livre>
+</bibliotheque>

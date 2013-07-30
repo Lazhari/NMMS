@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="Person.xsd">	
+	<personne >
+		<nom>dupon</nom>
+		<prenom>pierre</prenom>	
+	</personne>
+	<personne>
+		<nom>durant</nom>
+		<prenom>jean</prenom>	
+	</personne>
+	<personne>
+		<nom>martin</nom>
+		<prenom>gilles</prenom>	
+	</personne>
+</personnes>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="meteo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="idMeteo" type="xs:int"/>
+        <xs:element name="date" type="xs:date"/>
+        <xs:element name="temperature" type="xs:int"/>
+        <xs:element name="sun" type="xs:string"/>
+        <xs:element name="wind" type="xs:int"/>
+        <xs:element name="snow" type="xs:string"/>
+        <xs:element name="temperature_max" type="xs:int"/>
+        <xs:element name="temperature_min" type="xs:int"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

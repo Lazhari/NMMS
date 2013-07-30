@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="flights">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="flight" type="xs:string"/>
+        <xs:element name="company" type="xs:string"/>
+        <xs:element name="trajectory" type="xs:string"/>
+        <xs:element name="depart" type="xs:time"/>
+        <xs:element name="arrives" type="xs:time"/>
+        <xs:element name="date" type="xs:date"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

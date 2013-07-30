@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+  <etudiant_modifie classe="P2">
+    <nom>CynO</nom>
+  </etudiant_modifie>
+  <etudiant classe="P1">
+    <nom>Superwoman</nom>
+  </etudiant>
+  <etudiant classe="P1">
+    <nom>Don Corleone</nom>
+  </etudiant>
+</personnes>
